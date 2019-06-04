@@ -16,9 +16,10 @@ Password: password
 How to install:
 1.  Create a new Mysql Database in phpmyadmin
 2.  Unzip ziped file to htdocs directory in xampp or www directory in wamp
-3.  Go to application > config , and edit the following files to meet up with your database and url credentials
+3.  Import database.sql into your new database
+4.  Go to application > config , and edit the following files to meet up with your database and url credentials
     database.php and config.php
-4.  Visit your installation url e.g http://localhosts/propertymanager
+5.  Visit your installation url e.g http://localhosts/propertymanager
 
 Incase you need help, kindly write to: adex1maths@gmail.com
 
